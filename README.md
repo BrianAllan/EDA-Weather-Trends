@@ -12,6 +12,8 @@ _Project Tasks_:
 - Implement smoothing (i.e., a moving average) of the data.
 - Produce a visualization comparing local versus global temperature trends and report observations.
 
+Coding, visualizations, and the report of observations were done in a [R markdown file](https://brianallan.github.io/EDA-Weather-Trends/).
+
 ### Files Used
 
 proj1_weather_trends.Rmd
